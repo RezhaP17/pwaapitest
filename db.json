@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Black-crowned night heron","category":"Yellow"},
+{"id":2,"name":"Eland, common","category":"Violet"},
+{"id":3,"name":"Klipspringer","category":"Fuscia"},
+{"id":4,"name":"American woodcock","category":"Crimson"},
+{"id":5,"name":"Albatross, waved","category":"Khaki"},
+{"id":6,"name":"Arctic ground squirrel","category":"Turquoise"},
+{"id":7,"name":"Red kangaroo","category":"Puce"},
+{"id":8,"name":"Long-finned pilot whale","category":"Crimson"},
+{"id":9,"name":"Black swan","category":"Blue"},
+{"id":10,"name":"Fowl, helmeted guinea","category":"Goldenrod"},
+{"id":11,"name":"Egret, great","category":"Puce"},
+{"id":12,"name":"Tayra","category":"Red"},
+{"id":13,"name":"Black spider monkey","category":"Pink"},
+{"id":14,"name":"Gray langur","category":"Pink"},
+{"id":15,"name":"Asian water buffalo","category":"Mauv"},
+{"id":16,"name":"Bulbul, african red-eyed","category":"Aquamarine"},
+{"id":17,"name":"Ring-tailed gecko","category":"Indigo"},
+{"id":18,"name":"Woodrat (unidentified)","category":"Blue"},
+{"id":19,"name":"Francolin, swainson's","category":"Goldenrod"},
+{"id":20,"name":"Squirrel, eurasian red","category":"Red"}]
+}
